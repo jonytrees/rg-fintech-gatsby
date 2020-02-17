@@ -23,8 +23,8 @@ exports.onRenderBody = ({
   ])
   setPostBodyComponents([
 
-<script src="/static/jq-13c0a5055cca7b2463b2f73701960b9e.js"></script>,
-<script src="/static/main-9a2dc0bec4f5762deb037d706f903b72.js"></script>
+<script src="/src/js/jq.js"></script>,
+<script src="/src/js/main.js"></script>
 
   ])
 }
