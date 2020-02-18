@@ -124,7 +124,7 @@
             $mail->Port         = 465;                                                      // TCP port to connect to
 
             $mail->setFrom('zakazsite39@yandex.ru', 'RG request');
-            $mail->addAddress('clients@rg-fintech.com');                                      // Add a recipient
+            $mail->addAddress('jonytrees@gmail.com');                                      // Add a recipient
             // $mail->addAddress('ellen@example.com');                                      // Name is optional
             $mail->addReplyTo($email, 'RG-fintech.com');
             $mail->addCC('zakazsite39@yandex.ru');
